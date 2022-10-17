@@ -10,7 +10,7 @@ Hapus Biodata :
 ![Screenshot](SS/HapusBiodata.png)
 
 Lihat Biodata :
-![Screenshot](SS/Lihat$20Biodata.png)
+![Screenshot](SS/Lihat%20Biodata.png)
 
 Update Biodata :
 ![Screenshot](SS/UpdateBiodata.png)
