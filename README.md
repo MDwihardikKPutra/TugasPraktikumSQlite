@@ -1,7 +1,7 @@
 # TugasPraktikumSQlite
 
 tampilan awal :
-![Screenshot](SS/Tampilan Awal.png)
+![Screenshot](SS/Tampilan%20Awal.png)
 
 Form biodata :
 ![Screenshot](SS/Form Biodata.png)
